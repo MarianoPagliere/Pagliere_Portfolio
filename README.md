@@ -2,7 +2,7 @@
 
 ### Project Overview:
 
-I decided to make a curated database superior to those already existing on the Internet based on "Gran Turismo 2 (1998)". In this database we will find new and used cars of all brands,
+I decided to make a curated database superior to those already existing on the Internet based on "[Gran Turismo 2 (1998)](https://es.wikipedia.org/wiki/Gran_Turismo_2)". In this database we will find new and used cars of all brands,
 as well as their added items to improve the performance of each car (TBA).
 
 ### Data source:
