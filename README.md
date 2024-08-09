@@ -20,7 +20,7 @@ The data source is self-made from scratch contained in the file "GT2_Data.db". I
 
 ### Descripcion del proyecto
 
-Decidi sobre el soporte de "Gran Turismo 2 (1998)" hacer una base de datos curada y superior a comparacion de las ya existentes en internet.
+Decidi sobre el soporte de "[Gran Turismo 2 (1998)](https://es.wikipedia.org/wiki/Gran_Turismo_2)" hacer una base de datos curada y superior a comparacion de las ya existentes en internet.
 En esta Base de Datos encontraremos los autos nuevos y usados de todas las marcas,
 ademas de sus items agregados para mejorar el rendimiento de cada automovil (TBA).
 
