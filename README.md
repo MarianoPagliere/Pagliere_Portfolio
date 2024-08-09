@@ -7,7 +7,7 @@ as well as their added items to improve the performance of each car (TBA).
 
 ### Data source:
 
-The data source is self-made from scratch contained in the file "GT2_Data.db". It will also be attached in .csv format with the same name.
+The data source is self-made from scratch contained in the file "GT2_CarList_Data.db". It will also be attached in .csv format with the same name.
 
 ### Tools The focus in this work reflects my skills in:
 
@@ -26,7 +26,7 @@ ademas de sus items agregados para mejorar el rendimiento de cada automovil (TBA
 
 ### Fuente de datos
 
-La fuente de datos es de elaboracion propia de cero contenido en el archivo "GT2_Data.db", tambien se adjuntara en fomato .csv con el mismo nombre
+La fuente de datos es de elaboracion propia de cero contenido en el archivo "GT2_CarList_Data.db", tambien se adjuntara en fomato .csv con el mismo nombre
 
 ### Herramientas
 El enfoque en este trabajo reflejan mis habilidades en:
