@@ -15,6 +15,7 @@ The data source is self-made from scratch contained in the file "GT2_CarList_Dat
 - Python - Integrated MENU for C.R.U.D., as well as a function of filtering by parameters chosen by the user or randomly.
 - Power Bi - Creating reports.
 
+[Download here](https://github.com/MarianoPagliere/Pagliere_Portfolio/raw/main/GT2_Data.7z)
 
 # Analisis de datos "Gran Tursimo 2"
 
@@ -34,3 +35,5 @@ El enfoque en este trabajo reflejan mis habilidades en:
 - SQL - Analisis de Datos.
 - Python - Soporte con MENU integrado para A.B.M, ademas de una devolucion de resultados filtrados por parametros elegidos por el usuario o de forma aleatoria.
 - Power Bi - Reportes graficos.
+
+[Descarga aqui](https://github.com/MarianoPagliere/Pagliere_Portfolio/raw/main/GT2_Data.7z)
